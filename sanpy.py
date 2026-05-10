@@ -1,5 +1,4 @@
-import streamlit as st
-st.title("THIS IS THE NEW VERSION")
+
 import streamlit as st
 from google import genai
 from google.genai import types
