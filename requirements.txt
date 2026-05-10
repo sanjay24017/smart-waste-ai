@@ -1,0 +1,7 @@
+streamlit
+google-genai
+Pillow
+pandas
+plotly
+requests
+reportlab
